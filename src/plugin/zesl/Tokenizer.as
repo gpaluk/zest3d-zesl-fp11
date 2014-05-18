@@ -54,7 +54,7 @@ package plugin.zesl
 		
 		public function tokenize( str:String ):void
 		{
-			var s:String = StringUtils.trim( str ); // TODO trim();
+			var s:String = StringUtils.trim( str );
 			var totalLength:int = s.length;
 			_tokens.length = 0;
 			
