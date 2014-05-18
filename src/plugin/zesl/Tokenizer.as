@@ -1,7 +1,7 @@
 package plugin.zesl 
 {
 	import plugin.zesl.nodes.FunctionExpressionNode;
-	import plugin.utils.StringUtils;
+	import io.plugin.utils.StringUtils;
 	/**
 	 * ...
 	 * @author Gary Paluk - http://www.plugin.io
