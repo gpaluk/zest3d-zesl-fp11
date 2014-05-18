@@ -1,6 +1,6 @@
-package plugin.zesl.nodes 
+package zest3d.zesl.nodes 
 {
-	import plugin.zesl.Term;
+	import zest3d.zesl.Term;
 	/**
 	 * ...
 	 * @author Gary Paluk - http://www.plugin.io

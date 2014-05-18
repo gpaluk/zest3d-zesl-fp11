@@ -1,6 +1,6 @@
-package plugin.zesl 
+package zest3d.zesl 
 {
-	import plugin.zesl.nodes.FunctionExpressionNode;
+	import zest3d.zesl.nodes.FunctionExpressionNode;
 	import io.plugin.utils.StringUtils;
 	/**
 	 * ...

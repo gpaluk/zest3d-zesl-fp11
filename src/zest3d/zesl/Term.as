@@ -1,7 +1,7 @@
-package plugin.zesl 
+package zest3d.zesl 
 {
-	import plugin.zesl.nodes.ExpressionNode;
-	import plugin.zesl.nodes.IExpressionNode;
+	import zest3d.zesl.nodes.ExpressionNode;
+	import zest3d.zesl.nodes.IExpressionNode;
 	/**
 	 * ...
 	 * @author Gary Paluk - http://www.plugin.io
