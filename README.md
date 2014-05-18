@@ -3,6 +3,11 @@ zest3d-zesl-fp11
 
 ZESL shader compiler
 
+Dependencies
+============
+
+* https://github.com/PluginIO/plugin-core-fp11
+
 What is ZESL?
 =============
 
